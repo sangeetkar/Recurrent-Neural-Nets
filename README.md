@@ -4,7 +4,7 @@
 
  
 
-After reading an awesome [post](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) by the great [Andrej Karpathy](http://cs.stanford.edu/people/karpathy/), I decided to give **Recurrent Neural nets (RNNs)** a try for a similar task of text generation. In his post, he tries to generate Shakespearean text by training a **Character-based RNN ** (where he doesn't sample words but just plain characters). Here's an example that he mentions in his post:
+After reading an awesome [post](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) by the great [Andrej Karpathy](http://cs.stanford.edu/people/karpathy/), I decided to give **Recurrent Neural nets (RNNs)** a try for a similar task of text generation. In his post, he tries to generate Shakespearean text by training a **Character-based RNN** (where he doesn't sample words but just plain characters). Here's an example that he mentions in his post:
 
  
 
