@@ -42,4 +42,7 @@ After reading an awesome [post](http://karpathy.github.io/2015/05/21/rnn-effecti
 
 He goes even further and uses the same technique to generate Wikipedia articles, Paul Graham's essays etc.
 
+Here's the link to the notebook: 
+https://nbviewer.jupyter.org/github/sangeetkar/Recurrent-Neural-Nets/blob/master/Character%20based%20RNN%20for%20text%20generation.ipynb
+
  
